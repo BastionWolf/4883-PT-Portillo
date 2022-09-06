@@ -5,24 +5,40 @@
 */
 
 #include <iostream>
+#include <math.h>
 
 #define endl "\n"
 
 using namespace std;
 
 int main() {
-    int B = 0, A = 0;
-    
-    while (cin >> A >> B) {
-
-      if (A > B)
+  
+  long long A, B;
+  //long long a, b;
+  //long long MAX = pow(2,32);
+  // Code was originally set up 
+  // to only accept unsigned
+  // int as per requirements.
+  // Had to change it to 
+  // long long for UVA
+  
+  while(cin >> A >> B)
+    {
+      //if ((a <= MAX) && (b <= MAX))
       {
-        cout << (A-B) <<"\n";
+        //A = a;
+        //B = b;
+        
+        if (A >= B)
+        {
+          cout << (A-B);
+        }
+        else
+        {
+          cout << (B-A);
+        }
+        cout << "\n";
       }
-      else
-      {
-        cout << (B-A) << "\n";
-      }
-    }
+    }    
     return 0;
   }

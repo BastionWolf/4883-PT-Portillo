@@ -28,4 +28,4 @@ The input contains two numbers in every line. These two numbers in each line den
   - Dr. Griffen https://replit.com/@rugbyprof/FamousBasicComputerscience#main.cpp
 
 
-I used online judge to source the problem and uDebug to source the input files. I used Dr. Griffen's code test shell comands.
+I used online judge to source the problem and uDebug to source the input files. I used Dr. Griffen's code and guidence to test shell comands.

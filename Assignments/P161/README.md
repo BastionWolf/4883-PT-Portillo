@@ -4,6 +4,7 @@
 
 The input contains a set of traffic light timmers that will turn green within the alloted time before turning red for an equal amount of time. The Program seeks to find how long would it take for all traffic lights to shine green at the same time.
 
+#### URL to PDF: https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=97
 ### Files
 
 

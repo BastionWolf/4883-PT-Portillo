@@ -2,7 +2,7 @@
 #### Daniel 'June' Portillo
 ##### Discription: 
 
-Thins input takes in a number determining the number of teams and 
+This input takes in a number determining the number of teams and 
 number of players per team of ascending or decending ages and choses median aged player to be captian.
 
 #### URL to PDF: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2986

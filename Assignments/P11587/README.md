@@ -1,9 +1,9 @@
-## 11587 - Brick Game
+## 11498	Division of Nlogonia
 #### Daniel 'June' Portillo
 ##### Discription: 
 
-This input takes in a number determining the number of teams and 
-number of players per team of ascending or decending ages and choses median aged player to be captian.
+This program determines where a cordinate is (N0, NE, SO, or SE)
+relative to deviding center point given.
 
 #### URL to PDF: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2986
 ### Files
@@ -23,9 +23,9 @@ number of players per team of ascending or decending ages and choses median aged
 ### Sources
 
 - Online Judge:
-  - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2986
+  - https://onlinejudge.org/index.php?option=onlinejudge&Itemid=8&page=show_problem&problem=2493
 - UVA uDebugger:
-  - https://www.udebug.com/UVa/11875 
+  - https://www.udebug.com/UVa/11498
 
 
 I used online judge to source the problem and uDebug to source the input files.

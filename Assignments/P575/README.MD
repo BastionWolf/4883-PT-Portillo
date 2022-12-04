@@ -1,29 +1,31 @@
-## P11172 - Relational Operators
+## P575 Skew Binary
 #### Daniel 'June' Portillo
 ##### Discription: 
 
-The program checks and compares two integers and displays the
-proper relation between the two: '=' '<' '>'
+This program takes in an input in 'Skew Binary'
+,where '100' would be 1 * 2^2 is enstead 1* (2^ (n+1) -1) and where
+the least significant non-zero digit may be 2, and converts it
+into decimal.
 
 ### Files
 
 
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
-|   1   | [main.cpp](./main.cpp)     | solution file                                             |
+|   1   | [main.py](./main.py)     | solution file                                             |
 |   2   | [input](./input)           | Test input file from problem statement                     |
 |   3   | [input2](./input2)         | Larger test input from udebug                              |
 
 
 ### Instructions
 
-- This project was compiled using C++ 17 and Replit using shell comands: (g++ main.cpp -o main) and (./main < in)
+- This project was compiled using python and Replit using shell comands: ???
 
 ### Sources
 
 - Online Judge:
-  - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=2113 
+  - https://cs.msutexas.edu/uva/api/pdfs/005/575.pdf 
 - uDebug:
-  - https://www.udebug.com/UVa/11172 
+  - https://www.udebug.com/UVa/575
 
 
